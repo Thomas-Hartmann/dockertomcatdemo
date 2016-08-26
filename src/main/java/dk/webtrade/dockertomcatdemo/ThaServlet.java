@@ -41,7 +41,7 @@ public class ThaServlet extends HttpServlet {
             out.println("<title>Servlet ThaServlet</title>");            
             out.println("</head>");
             out.println("<body>");
-            out.println("<h1>Servlet ThaServlet at " + request.getContextPath() + "</h1>");
+            out.println("<h1>Servletten indholder nu en helt ny besked</h1>");
             out.println("</body>");
             out.println("</html>");
         } finally {
